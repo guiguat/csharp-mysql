@@ -3,9 +3,9 @@ using System;
 
 namespace csharp_mysql.Database
 {
-    class Connection : IConnection
+    class Db : IDb
     {
-        private Connection() { }
+        private Db() { }
 
         private static string _Server = "143.106.241.3";
         private static string _Port = "3306";
@@ -15,7 +15,7 @@ namespace csharp_mysql.Database
 
         private string _connectionString = $"server={_Server};port={_Port};UserID={_UserId};database={_Database};password={_Password}";
 
-        private static Connection _instance;
+        private static Db _instance;
 
         private MySqlConnection _conn;
 
@@ -34,11 +34,11 @@ namespace csharp_mysql.Database
             }
         }
 
-        public Connection GetInstance()
+        public static Db GetInstance()
         {
             if(_instance == null)
             {
-                _instance = new Connection();
+                _instance = new Db();
             }
             return _instance;
         }

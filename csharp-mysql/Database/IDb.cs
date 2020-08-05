@@ -6,11 +6,11 @@ using MySql.Data.MySqlClient;
 
 namespace csharp_mysql.Database
 {
-    interface IConnection
+    interface IDb
     {
         MySqlConnection GetConnection();
         void Execute(MySqlConnection conn, string command);
-        Connection GetInstance();
+        Db GetInstance();
 
     }
 }
