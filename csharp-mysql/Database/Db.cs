@@ -3,7 +3,7 @@ using System;
 
 namespace csharp_mysql.Database
 {
-    class Db : IDb
+    class Db
     {
         private Db() { }
 
