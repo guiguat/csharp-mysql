@@ -1,0 +1,5 @@
+C:\Users\guatu\Source\Repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\ProjetoChamada.exe
+C:\Users\guatu\Source\Repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\csharp_mysql.Form1.resources
+C:\Users\guatu\Source\Repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.csproj.GenerateResource.cache
+C:\Users\guatu\Source\Repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.AssemblyInfoInputs.cache
+C:\Users\guatu\Source\Repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.AssemblyInfo.cs
