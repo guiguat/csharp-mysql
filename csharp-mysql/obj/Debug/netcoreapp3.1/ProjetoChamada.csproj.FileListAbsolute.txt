@@ -25,3 +25,4 @@ C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\Pr
 C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.dll
 C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.pdb
 C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\ProjetoChamada.genruntimeconfig.cache
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\csharp_mysql.RegisterStudentForm.resources
