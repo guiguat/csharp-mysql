@@ -15,7 +15,8 @@ namespace csharp_mysql.Controllers
         {
             try
             {
-                string query = $"INSERT INTO Student(id, name, class) VALUES ({s.Id}, '{s.Name}', '{s.Class}')";
+                string query = "INSERT INTO Student(id, name, class) " +
+                    $"VALUES ({s.Id}, '{s.Name}', '{s.Class}')";
                 Db inst = Db.GetInstance();
                 inst.Execute(inst.GetConnection(), query);
             }
