@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj": {}
+    "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj": {
+    "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
+        "projectUniqueName": "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
         "projectName": "ProjetoChamada",
-        "projectPath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
+        "projectPath": "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
         "packagesPath": "C:\\Users\\guatu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\obj\\",
+        "outputPath": "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guatu\\AppData\\Roaming\\NuGet\\NuGet.Config",

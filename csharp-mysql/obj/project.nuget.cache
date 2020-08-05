@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bCRtVf5OW87xnHuZts8GgVNR8AOCme719Jf9kZU3yMt1fzYVb1um88TUg9Tj1n18Jl0mqM96TtWhOeKABWGHnQ==",
+  "dgSpecHash": "o1SmIhBRh7itFasxr0rFFazSN4Gt9fE5rHmOG6QLS5Ov09oax92Zo0UpgCLu8aHMS/mrq5/Mf5icTUrUF9z0Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
+  "projectFilePath": "C:\\Users\\guatu\\source\\repos\\csharp-mysql\\csharp-mysql\\ProjetoChamada.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guatu\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\guatu\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
