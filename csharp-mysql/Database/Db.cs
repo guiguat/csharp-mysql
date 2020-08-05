@@ -13,7 +13,8 @@ namespace csharp_mysql.Database
         private static string _Database = "cl19126";
         private static string _Password = "cl*10102003";
 
-        private string _connectionString = $"server={_Server};port={_Port};UserID={_UserId};database={_Database};password={_Password}";
+        private string _connectionString = $"server={_Server};port={_Port};UserID={_UserId};" +
+            $"database={_Database};password={_Password}";
 
         private static Db _instance;
 
