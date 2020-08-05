@@ -35,7 +35,7 @@ namespace csharp_mysql
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Not able to insert into database\nError:\n{ex}");
+                    MessageBox.Show($"Not able to insert into database\nError:\n{ex.Message}");
                 }
             }
             else
