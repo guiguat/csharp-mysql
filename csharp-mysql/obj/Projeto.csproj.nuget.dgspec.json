@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\View.csproj": {}
+    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\View.csproj": {
+    "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\View.csproj",
-        "projectName": "View",
-        "projectPath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\View.csproj",
+        "projectUniqueName": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\Projeto.csproj",
+        "projectName": "Projeto",
+        "projectPath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\Projeto.csproj",
         "packagesPath": "C:\\Users\\guatu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guatu\\Source\\Repos\\csharp-mysql\\csharp-mysql\\obj\\",
         "projectStyle": "PackageReference",
