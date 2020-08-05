@@ -19,12 +19,12 @@ namespace csharp_mysql
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ra = txbRA.Text;
-            string name = txbName.Text;
-            string student_class = cbClasses.SelectedItem.ToString();
-            
-            if(!(ra == String.Empty || name == String.Empty || student_class == String.Empty))
+            if(!(txbRA.Text == String.Empty || txbName.Text == String.Empty || cbClasses.SelectedItem == null))
             {
+                string ra = txbRA.Text;
+                string name = txbName.Text;
+                string student_class = cbClasses.SelectedItem.ToString();
+            
                 try
                 {
                     var student = new Student(int.Parse(ra), name, student_class);
