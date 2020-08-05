@@ -1,7 +1,7 @@
-﻿using csharp_mysql.Models;
+﻿using csharp_mysql.Database;
+using csharp_mysql.Models;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace csharp_mysql.Controllers
 {
@@ -11,10 +11,20 @@ namespace csharp_mysql.Controllers
         {
             throw new NotImplementedException();
         }
-
-        public void Insert(Lecture t)
+            
+        public void Insert(Lecture l)
         {
-            throw new NotImplementedException();
+            try
+            {
+                string query = "INSERT INTO Lectures(title, speaker_name, day, hour) " +
+                    $"VALUES ('{l.Title}', '{l.SpeakerName}', '{l.Day}', '{l.Hour}')";
+                Db inst = Db.GetInstance();
+                inst.Execute(inst.GetConnection(), query);
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
         }
 
         public IEnumerable<Lecture> List()
@@ -22,7 +32,7 @@ namespace csharp_mysql.Controllers
             throw new NotImplementedException();
         }
 
-        public void Put(Lecture t)
+        public void Put(Lecture l)
         {
             throw new NotImplementedException();
         }
