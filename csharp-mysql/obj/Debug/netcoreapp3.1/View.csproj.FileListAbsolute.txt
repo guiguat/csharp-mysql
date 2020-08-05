@@ -1,0 +1,12 @@
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.exe
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.deps.json
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.runtimeconfig.json
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.runtimeconfig.dev.json
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.dll
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\bin\Debug\netcoreapp3.1\View.pdb
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.AssemblyInfoInputs.cache
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.AssemblyInfo.cs
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.csproj.CoreCompileInputs.cache
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.dll
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.pdb
+C:\Users\guatu\source\repos\csharp-mysql\csharp-mysql\obj\Debug\netcoreapp3.1\View.genruntimeconfig.cache
