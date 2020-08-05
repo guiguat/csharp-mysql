@@ -6,7 +6,7 @@ namespace csharp_mysql.Models
 {
     class Lecture
     {
-        public Lecture(int id = 0, string title, string speaker, string day, string hour)
+        public Lecture(string title, string speaker, string day, string hour, int id = 0)
         {
             this.Id = id;
             this.Title = title;
