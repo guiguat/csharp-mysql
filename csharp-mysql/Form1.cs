@@ -32,6 +32,12 @@ namespace csharp_mysql
         private void toolStripMenuItem5_Click(object sender, EventArgs e)
         {
             //Register Lectures click
+            if (Application.OpenForms.OfType<RegisterLecture>().Count() == 0)
+            {
+                RegisterLecture rl = new RegisterLecture();
+                rl.MdiParent = this;
+                rl.Show();
+            }
         }
     }
 }
