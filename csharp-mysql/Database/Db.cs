@@ -31,6 +31,7 @@ namespace csharp_mysql.Database
             }
             catch(Exception e)
             {
+                conn.Close();
                 throw e;
             }
         }
