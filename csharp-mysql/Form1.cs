@@ -17,5 +17,21 @@ namespace csharp_mysql
             InitializeComponent();
             this.IsMdiContainer = true;
         }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            //Register Student click
+            if (Application.OpenForms.OfType<RegisterStudentForm>().Count() == 0)
+            {
+                RegisterStudentForm rf = new RegisterStudentForm();
+                rf.MdiParent = this;
+                rf.Show();
+            }
+        }
+
+        private void toolStripMenuItem5_Click(object sender, EventArgs e)
+        {
+            //Register Lectures click
+        }
     }
 }
